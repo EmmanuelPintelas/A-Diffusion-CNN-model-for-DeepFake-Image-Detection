@@ -1,0 +1,2 @@
+# A-Diffusion-CNN-model-for-DeepFake-Image-Detection
+A diffusion could unveil deepfakes. We simulate the diffusion of the inherent structure of deepfake images seeking for patterns throughout this process. Our diffusionnetwork iteratively adds noise to the input image until it almost becomes pure noise. Subsequently, we aim to extract patterns from final state and all transient-stages of diffusion.
