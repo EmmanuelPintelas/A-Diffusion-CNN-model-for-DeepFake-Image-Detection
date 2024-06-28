@@ -27,7 +27,7 @@ from Diffusion_CNN import *
 
 
 # --------------- MANDATORY (global seeding for reproducable results) ---------------
-SEED = 1
+SEED = 0
 torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 random.seed(SEED)    
